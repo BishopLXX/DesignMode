@@ -1,0 +1,7 @@
+F:\设计模式\设计模式\观察者\bin\Debug\观察者.exe.config
+F:\设计模式\设计模式\观察者\bin\Debug\观察者.exe
+F:\设计模式\设计模式\观察者\bin\Debug\观察者.pdb
+F:\设计模式\设计模式\观察者\obj\Debug\观察者.csprojAssemblyReference.cache
+F:\设计模式\设计模式\观察者\obj\Debug\观察者.csproj.CoreCompileInputs.cache
+F:\设计模式\设计模式\观察者\obj\Debug\观察者.exe
+F:\设计模式\设计模式\观察者\obj\Debug\观察者.pdb
