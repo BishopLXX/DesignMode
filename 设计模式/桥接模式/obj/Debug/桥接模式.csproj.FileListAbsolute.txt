@@ -4,3 +4,9 @@ F:\设计模式\设计模式\桥接模式\obj\Debug\桥接模式.csprojAssemblyR
 F:\设计模式\设计模式\桥接模式\obj\Debug\桥接模式.csproj.CoreCompileInputs.cache
 F:\设计模式\设计模式\桥接模式\obj\Debug\桥接模式.exe
 F:\设计模式\设计模式\桥接模式\obj\Debug\桥接模式.pdb
+C:\Users\Bishop\Desktop\设计模式\DesignMode\设计模式\桥接模式\obj\Debug\桥接模式.csprojAssemblyReference.cache
+C:\Users\Bishop\Desktop\设计模式\DesignMode\设计模式\桥接模式\obj\Debug\桥接模式.csproj.CoreCompileInputs.cache
+C:\Users\Bishop\Desktop\设计模式\DesignMode\设计模式\桥接模式\obj\Debug\桥接模式.exe
+C:\Users\Bishop\Desktop\设计模式\DesignMode\设计模式\桥接模式\obj\Debug\桥接模式.pdb
+C:\Users\Bishop\Desktop\设计模式\DesignMode\设计模式\桥接模式\bin\Debug\桥接模式.exe
+C:\Users\Bishop\Desktop\设计模式\DesignMode\设计模式\桥接模式\bin\Debug\桥接模式.pdb

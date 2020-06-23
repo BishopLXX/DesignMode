@@ -1,0 +1,7 @@
+C:\Users\Bishop\Desktop\设计模式\DesignMode\观察者模式实现成就系统\bin\Debug\观察者模式实现成就系统.exe.config
+C:\Users\Bishop\Desktop\设计模式\DesignMode\观察者模式实现成就系统\bin\Debug\观察者模式实现成就系统.exe
+C:\Users\Bishop\Desktop\设计模式\DesignMode\观察者模式实现成就系统\bin\Debug\观察者模式实现成就系统.pdb
+C:\Users\Bishop\Desktop\设计模式\DesignMode\观察者模式实现成就系统\obj\Debug\观察者模式实现成就系统.csprojAssemblyReference.cache
+C:\Users\Bishop\Desktop\设计模式\DesignMode\观察者模式实现成就系统\obj\Debug\观察者模式实现成就系统.csproj.CoreCompileInputs.cache
+C:\Users\Bishop\Desktop\设计模式\DesignMode\观察者模式实现成就系统\obj\Debug\观察者模式实现成就系统.exe
+C:\Users\Bishop\Desktop\设计模式\DesignMode\观察者模式实现成就系统\obj\Debug\观察者模式实现成就系统.pdb
