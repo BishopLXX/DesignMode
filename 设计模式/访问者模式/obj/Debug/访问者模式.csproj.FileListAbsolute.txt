@@ -5,3 +5,10 @@ F:\设计模式\设计模式\访问者模式\obj\Debug\访问者模式.csprojAss
 F:\设计模式\设计模式\访问者模式\obj\Debug\访问者模式.csproj.CoreCompileInputs.cache
 F:\设计模式\设计模式\访问者模式\obj\Debug\访问者模式.exe
 F:\设计模式\设计模式\访问者模式\obj\Debug\访问者模式.pdb
+F:\DesignMode\设计模式\DesignMode\设计模式\访问者模式\bin\Debug\访问者模式.exe.config
+F:\DesignMode\设计模式\DesignMode\设计模式\访问者模式\bin\Debug\访问者模式.exe
+F:\DesignMode\设计模式\DesignMode\设计模式\访问者模式\bin\Debug\访问者模式.pdb
+F:\DesignMode\设计模式\DesignMode\设计模式\访问者模式\obj\Debug\访问者模式.csprojAssemblyReference.cache
+F:\DesignMode\设计模式\DesignMode\设计模式\访问者模式\obj\Debug\访问者模式.csproj.CoreCompileInputs.cache
+F:\DesignMode\设计模式\DesignMode\设计模式\访问者模式\obj\Debug\访问者模式.exe
+F:\DesignMode\设计模式\DesignMode\设计模式\访问者模式\obj\Debug\访问者模式.pdb
